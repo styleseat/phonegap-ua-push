@@ -13,7 +13,6 @@
     <engines>
       <engine name="cordova" version=">=3.4.0" />
         <engine name="cordova-android" version=">=4" />
-        <engine name="cordova-plugman" version=">=4.2.0" />
     </engines>
 
     <js-module src="www/UrbanAirship.js" name="UrbanAirship">
